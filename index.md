@@ -4,7 +4,7 @@ title: Welcome to Mr.Hu's Homepage
 
 This is my first individual webpage, hosted on Github.
 
-My E-mail adress is [qyhu.phys@gmail.com](qyhu.phys@gmail.com)
+My E-mail adress is [qyhu.phys@gmail.com](mailto:qyhu.phys@gmail.com).
 
 ### Getting Started
 
