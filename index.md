@@ -2,14 +2,9 @@
 title: Welcome to Mr.Hu's Homepage
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+This is my first individual webpage, hosted on Github.
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
-
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
+My e-mail adress is [qyhu.phys@gmail.com](qyhu.phys@gmail.com)
 
 ### Getting Started
 
