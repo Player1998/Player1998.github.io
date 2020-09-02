@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Welcome to Mr.Hu's Homepage
 ---
 
 This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
